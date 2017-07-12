@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.observer;
+package pattern.behavioral.observer;
 
 /**
  * @author Sanket Gupta
