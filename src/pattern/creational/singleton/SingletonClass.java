@@ -20,7 +20,7 @@ public class SingletonClass {
 	private SingletonClass (){insCount++;}
 
 	/**
-	 * 
+	 * This method will create and return a instance of {@link SingletonClass} if not already created. 
 	 * @return {@link SingletonClass}
 	 */
 	public static SingletonClass getInstance(){
