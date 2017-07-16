@@ -6,6 +6,10 @@ Java language based implementation of Design Pattern
 	1. Singleton
 	
 		It will create only one object of the class.
+		
+	2. Factory
+		
+		In factory pattern we create object without exposing the instantiation logic. We use a common interface to refer dame type of objects.
 
 * Structural Design Pattern
 
