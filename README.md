@@ -10,6 +10,10 @@ Java language based implementation of Design Pattern
 	2. Factory
 		
 		In factory pattern we create object without exposing the instantiation logic. We use a common interface to refer dame type of objects.
+		
+	3. Abstract Factory
+	
+		Abstract factory is a factory of factories. It provides an interface for creating objects of related families or dependent object without declaring their concrete classes. 
 
 * Structural Design Pattern
 
