@@ -18,6 +18,10 @@ Java language based implementation of Design Pattern
 	4. Prototype
 	
 		When the creation of object is an expensive task like I/O or Database call. Prototype patter is more efficient way to create an object. This way we can cache the expensive operation and use the same data to create new objects whenever required. This will always give a new object (a prototype of object). 
+		
+	5. Builder
+	
+		Using Builder Pattern complex object creation can be separate from its representation and we can implement different implement of objects. 
 
 * Structural Design Pattern
 
