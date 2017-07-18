@@ -1,9 +1,9 @@
 # Design Pattern
 Java language based implementation of Design Pattern
 
-* <b>Creational Design Pattern</b>
+## Creational Design Pattern
 
-	1. Singleton
+	1. <b>Singleton</b>
 	
 		It will create only one object of the class.
 		
@@ -23,11 +23,11 @@ Java language based implementation of Design Pattern
 	
 		Using Builder Pattern complex object creation can be separate from its representation and we can implement different implement of objects. 
 
-* <b>Structural Design Pattern</b>
+## Structural Design Pattern
 
 	1. Facade
 
-* <b>Behavioral Design Pattern</b>
+## Behavioral Design Pattern
 
 	1. Observer Design Pattern
 	
