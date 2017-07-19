@@ -7,7 +7,7 @@ package pattern.structural.adapter;
  * @author Sanket Gupta
  *
  */
-public class MediaAdapter extends MediaPlayer {
+public class AdvancePlayer extends MediaPlayer {
 	private MediaPlayer player;
 	
 	/* (non-Javadoc)
