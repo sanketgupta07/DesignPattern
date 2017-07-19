@@ -28,6 +28,10 @@ Java language based implementation of Design Pattern
 	1. Facade
 	
 		Facade pattern simplifies the interface of a complex system. 
+		
+	2. Adapter
+	
+		Adapter pattern works as bridge between two incompatible interfaces.
 
 * <b>Behavioral Design Pattern</b>
 
