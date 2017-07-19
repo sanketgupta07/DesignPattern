@@ -26,6 +26,8 @@ Java language based implementation of Design Pattern
 * <b>Structural Design Pattern</b>
 
 	1. Facade
+	
+		Facade pattern simplifies the interface of a complex system. 
 
 * <b>Behavioral Design Pattern</b>
 
