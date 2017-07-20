@@ -32,6 +32,10 @@ Java language based implementation of Design Pattern
 	2. Adapter
 	
 		Adapter pattern works as bridge between two incompatible interfaces.
+		
+	3. Chain of responsibility 
+	
+		Objects linked to processing chain will get an opportunity to perform their task or pass the request to chain.
 
 * <b>Behavioral Design Pattern</b>
 
