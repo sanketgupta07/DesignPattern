@@ -36,6 +36,10 @@ Java language based implementation of Design Pattern
 	3. Chain of responsibility 
 	
 		Objects linked to processing chain will get an opportunity to perform their task or pass the request to chain.
+		
+	4. Proxy
+	
+		Proxy object is a placeholder until the real object is ready to use.
 
 * <b>Behavioral Design Pattern</b>
 
@@ -43,4 +47,8 @@ Java language based implementation of Design Pattern
 	
 		It define one-to-many dependency between objects so that when one object change its state, all other dependent object will be notified and updated automatically.
 
+References:
+
+* https://sourcemaking.com/design_patterns
+* https://www.tutorialspoint.com/design_pattern
 
