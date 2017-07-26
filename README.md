@@ -40,6 +40,10 @@ Java language based implementation of Design Pattern
 	4. Proxy
 	
 		Proxy object is a placeholder until the real object is ready to use.
+		
+	5. Decorator
+	
+		This pattern allows a behavior to be added in a object without affecting the existing behaviors.  
 
 * <b>Behavioral Design Pattern</b>
 
