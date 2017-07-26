@@ -1,19 +1,19 @@
 /**
  * 
  */
-package pattern.structural.chain;
+package pattern.behavioral.chain;
 
 /**
  * @author Sanket Gupta
  *
  */
-public class DebugLogger extends Logger {
+public class InfoLogger extends Logger {
 
 	/**
 	 * 
 	 */
-	public DebugLogger() {
-		this.level = Logger.DEBUG;
+	public InfoLogger() {
+		this.level = Logger.INFO;
 	}
 
 	/* (non-Javadoc)
@@ -21,7 +21,7 @@ public class DebugLogger extends Logger {
 	 */
 	@Override
 	protected void printMsg(String msg) {
-		System.out.println("Debug: "+msg);
+		System.out.println("INFO: "+msg);
 
 	}
 

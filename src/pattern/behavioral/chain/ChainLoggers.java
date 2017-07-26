@@ -1,7 +1,7 @@
 /**
  * This class will help to set the chain of loggers
  */
-package pattern.structural.chain;
+package pattern.behavioral.chain;
 
 /**
  * @author Sanket Gupta

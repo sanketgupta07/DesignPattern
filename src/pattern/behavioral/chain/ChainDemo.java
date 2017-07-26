@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pattern.structural.chain;
+package pattern.behavioral.chain;
 
 /**
  * @author Sanket Gupta

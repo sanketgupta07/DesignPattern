@@ -33,15 +33,11 @@ Java language based implementation of Design Pattern
 	
 		Adapter pattern works as bridge between two incompatible interfaces.
 		
-	3. Chain of responsibility 
-	
-		Objects linked to processing chain will get an opportunity to perform their task or pass the request to chain.
-		
-	4. Proxy
+	3. Proxy
 	
 		Proxy object is a placeholder until the real object is ready to use.
 		
-	5. Decorator
+	4. Decorator
 	
 		This pattern allows a behavior to be added in a object without affecting the existing behaviors.  
 
@@ -50,6 +46,10 @@ Java language based implementation of Design Pattern
 	1. Observer Design Pattern
 	
 		It define one-to-many dependency between objects so that when one object change its state, all other dependent object will be notified and updated automatically.
+		
+	2. Chain of responsibility 
+	
+		Objects linked to processing chain will get an opportunity to perform their task or pass the request to chain.
 
 References:
 
