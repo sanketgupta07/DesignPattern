@@ -17,7 +17,7 @@ public class ChainDemo {
 		
 		logger.log(Logger.INFO, "Starting logging.");
 		logger.log(Logger.DEBUG, "Debugging here.");
-		logger.log(Logger.ERROR, "Error occured");
+		logger.log(Logger.ERROR, "Error occured.");
 		
 	}
 

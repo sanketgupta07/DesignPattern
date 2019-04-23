@@ -15,10 +15,10 @@ public class ChainLoggers {
 	 */
 	public static Logger getLogger(){
 		Logger errorLogger  = new ErrorLogger();
-		Logger fileLogger = new DebugLogger();
-		Logger consoleLogger = new InfoLogger();
-		errorLogger.setNextLogger(fileLogger);
-		fileLogger.setNextLogger(consoleLogger);
+		Logger debugLogger = new DebugLogger();
+		Logger infoLogger = new InfoLogger();
+		errorLogger.setNextLogger(debugLogger);
+		debugLogger.setNextLogger(infoLogger);
 		return errorLogger;
 	}
 

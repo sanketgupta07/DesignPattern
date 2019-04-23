@@ -21,7 +21,7 @@ public class ErrorLogger extends Logger {
 	 */
 	@Override
 	protected void printMsg(String msg) {
-		System.err.println("Error: "+msg);
+		System.err.println("\nError: "+msg);
 
 	}
 
