@@ -1,5 +1,5 @@
 # Design Pattern
-Java language based implementation of Design Pattern
+Java language based implementation of Design Pattern.
 
 * <b>Creational Design Pattern</b>
 
