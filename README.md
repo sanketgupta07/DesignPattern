@@ -22,6 +22,10 @@ Java language based implementation of Design Pattern.
 	5. Builder
 	
 		Using Builder Pattern complex object creation can be separate from its representation and we can implement different implement of objects. 
+		
+	6. ObjectPool
+	
+		The Object Pool will allow us to reuse the existing object and it will maintain and clean up the invalid object from the pool. In this way a process does not need to wait for a object to be released from other.	
 
 * <b>Structural Design Pattern</b>
 
