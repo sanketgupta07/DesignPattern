@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pattern.creational.Builder;
+package pattern.creational.builder;
 
 /**
  * @author Sanket Gupta

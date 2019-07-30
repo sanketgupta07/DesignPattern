@@ -1,20 +1,21 @@
 /**
  * Concrete Implementation of Builder class
  */
-package pattern.creational.Builder;
+package pattern.creational.builder;
 
 /**
  * @author Sanket Gupta
  *
  */
-public class NormalPizza extends MealBuilder {
+public class CheaseBurstPizza extends MealBuilder {
 
 	/* (non-Javadoc)
 	 * @see pattern.creational.Builder.MealBuilder#buildChease()
 	 */
 	@Override
 	public String buildChease() {
-		return "Normal";
+		// TODO Auto-generated method stub
+		return "Extra";
 	}
 
 	/* (non-Javadoc)
@@ -22,6 +23,8 @@ public class NormalPizza extends MealBuilder {
 	 */
 	@Override
 	public String buildDrink() {
-		return "Coke";
+		// TODO Auto-generated method stub
+		return "Pepsi";
 	}
+
 }

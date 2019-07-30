@@ -1,7 +1,7 @@
 /**
  * Object which will use the Builder pattern
  */
-package pattern.creational.Builder;
+package pattern.creational.builder;
 
 /**
  * @author Sanket Gupta
